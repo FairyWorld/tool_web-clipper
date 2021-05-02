@@ -72,7 +72,7 @@
     "umi-request": "^1.2.15"
   },
   "devDependencies": {
-    "@diamondyuan/eslint-config-react-typescript": "^7.0.1",
+    "@diamondyuan/eslint-config-react-typescript": "^7.0.4",
     "@types/chrome": "^0.0.91",
     "@types/classnames": "^2.2.9",
     "@types/codemirror": "^0.0.76",

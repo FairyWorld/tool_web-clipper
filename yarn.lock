@@ -268,13 +268,13 @@
   resolved "https://registry.npm.taobao.org/@diamondyuan/eslint-config-javascript/download/@diamondyuan/eslint-config-javascript-7.0.2.tgz#7657581d541e58b2f8c3a453794da477343a1223"
   integrity sha1-dldYHVQeWLL4w6RTeU2kdzQ6EiM=
 
-"@diamondyuan/eslint-config-react-typescript@^7.0.1":
-  version "7.0.2"
-  resolved "https://registry.npm.taobao.org/@diamondyuan/eslint-config-react-typescript/download/@diamondyuan/eslint-config-react-typescript-7.0.2.tgz#c49dbef80474e9f9cd3149d588f1fa037d1a2bd2"
-  integrity sha1-xJ2++AR06fnNMUnViPH6A30aK9I=
+"@diamondyuan/eslint-config-react-typescript@^7.0.4":
+  version "7.0.4"
+  resolved "https://registry.yarnpkg.com/@diamondyuan/eslint-config-react-typescript/-/eslint-config-react-typescript-7.0.4.tgz#305eadfed1a194fb34c7ab2d853ed8cba2c09d3d"
+  integrity sha512-xS9Syl1xgMCIk/xm+Sfalzwo2GEZP9fr9zI00j1Q/n64VwUl9GRpM7LS9pw4mTucn1LvK58qJMt+8MW03WbQSw==
   dependencies:
     "@diamondyuan/eslint-config-react" "^7.0.2"
-    "@diamondyuan/eslint-config-typescript" "^7.0.2"
+    "@diamondyuan/eslint-config-typescript" "^7.0.4"
 
 "@diamondyuan/eslint-config-react@^7.0.2":
   version "7.0.2"
@@ -283,10 +283,10 @@
   dependencies:
     "@diamondyuan/eslint-config-javascript" "^7.0.2"
 
-"@diamondyuan/eslint-config-typescript@^7.0.2":
-  version "7.0.2"
-  resolved "https://registry.npm.taobao.org/@diamondyuan/eslint-config-typescript/download/@diamondyuan/eslint-config-typescript-7.0.2.tgz#cfcd5392c9d050c7cabfe7b0c875e23fd0c783c2"
-  integrity sha1-z81TksnQUMfKv+ewyHXiP9DHg8I=
+"@diamondyuan/eslint-config-typescript@^7.0.4":
+  version "7.0.4"
+  resolved "https://registry.yarnpkg.com/@diamondyuan/eslint-config-typescript/-/eslint-config-typescript-7.0.4.tgz#95343adfd7c34df56c71068ffef6fd67c7b9291b"
+  integrity sha512-fMdiw+BUg4Sc/7KUqr5nn2oxnmrNcM4kSjtqGGkEkxeEc4euap4GuknWZFQKWrnDPD2Cm6OrI0gsaoIrBws6Ug==
   dependencies:
     "@diamondyuan/eslint-config-javascript" "^7.0.2"
 
@@ -8503,16 +8503,9 @@ semver@^6.0.0, semver@^6.1.2, semver@^6.2.0:
   resolved "https://registry.npm.taobao.org/semver/download/semver-6.3.0.tgz?cache=0&sync_timestamp=1606853731020&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fsemver%2Fdownload%2Fsemver-6.3.0.tgz#ee0a64c8af5e8ceea67687b133761e1becbd1d3d"
   integrity sha1-7gpkyK9ejO6mdoexM3YeG+y9HT0=
 
-semver@^7.3.2:
+semver@^7.3.2, semver@^7.3.4:
   version "7.3.4"
   resolved "https://registry.npm.taobao.org/semver/download/semver-7.3.4.tgz?cache=0&sync_timestamp=1606853731020&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fsemver%2Fdownload%2Fsemver-7.3.4.tgz#27aaa7d2e4ca76452f98d3add093a72c943edc97"
-  integrity sha1-J6qn0uTKdkUvmNOt0JOnLJQ+3Jc=
-  dependencies:
-    lru-cache "^6.0.0"
-
-semver@^7.3.4:
-  version "7.3.4"
-  resolved "https://registry.npm.taobao.org/semver/download/semver-7.3.4.tgz#27aaa7d2e4ca76452f98d3add093a72c943edc97"
   integrity sha1-J6qn0uTKdkUvmNOt0JOnLJQ+3Jc=
   dependencies:
     lru-cache "^6.0.0"
