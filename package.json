@@ -2,6 +2,9 @@
   "name": "web-clipper",
   "version": "1.31.0-alpha.2",
   "description": "Universal open source web clipper for Notion,OneNote,Joplin,Yuque,Bear,Github and more notes.",
+  "bin": {
+    "web-clipper": "bin/index.js"
+  },
   "scripts": {
     "test": "jest",
     "cov": "jest --coverage",
@@ -28,7 +31,7 @@
     "@ant-design/compatible": "^1.0.8",
     "@ant-design/icons": "^4.2.2",
     "@diamondyuan/eslint": "^7.0.4",
-    "@formily/antd": "^2.0.0-beta.47",
+    "@formily/antd": "^2.0.0-beta.81",
     "@formily/core": "^2.0.0-beta.47",
     "@formily/react": "^2.0.0-beta.47",
     "@shihengtech/hooks": "^0.0.7",
