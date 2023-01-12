@@ -2261,10 +2261,10 @@ component-indexof@0.0.3:
   resolved "https://registry.npm.taobao.org/component-indexof/download/component-indexof-0.0.3.tgz"
   integrity sha1-EdCRMSI5648yyPJa6csAL/6NPCQ=
 
-compressing@^1.4.0:
-  version "1.5.1"
-  resolved "https://registry.npm.taobao.org/compressing/download/compressing-1.5.1.tgz"
-  integrity sha1-0DGjMRuMLtZWGoQxZx1ahEVASC0=
+compressing@^1.7.0:
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/compressing/-/compressing-1.7.0.tgz#960e3906ea82739fc35c0162c898f1e9e83ced5f"
+  integrity sha512-3OGtkZaBLZ6tHCfsEUiSUNmbyQhSrpjXafAAM+aXp8DU5I3BWsOqMrD3XhDnOsE2akpRaoije7gmcCNSR2b9Vw==
   dependencies:
     flushwritable "^1.0.0"
     get-ready "^1.0.0"
